@@ -59,11 +59,11 @@ m4_FILE_ID([[$Date::            $]]) Sheet of Changes GOST 2.503-90]
 \parbox[c]{\ESKDchngColumnVIwidth-2\tabcolsep-\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIname}&
 \parbox[c]{\ESKDchngColumnVIIwidth-2\tabcolsep-\arrayrulewidth}{%
-  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIname}&
+  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnsVIIname}&
 \parbox[c]{\ESKDchngColumnVIIIwidth-2\tabcolsep-\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIIIname\vspace{1mm}}&
 \parbox[c]{\ESKDchngColumnIXwidth-2\tabcolsep-\arrayrulewidth}{%
-  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIIname}&
+  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIIIIname}&
 \parbox[c]{\ESKDchngColumnXwidth-2\tabcolsep-1.5\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIIIname}\\\hline
 \endfirsthead
@@ -82,11 +82,11 @@ m4_FILE_ID([[$Date::            $]]) Sheet of Changes GOST 2.503-90]
 \parbox[c]{\ESKDchngColumnVIwidth-2\tabcolsep-\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIname}&
 \parbox[c]{\ESKDchngColumnVIIwidth-2\tabcolsep-\arrayrulewidth}{%
-  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIname}&
+  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnsVIIname}&
 \parbox[c]{\ESKDchngColumnVIIIwidth-2\tabcolsep-\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIIIname\vspace{1mm}}&
 \parbox[c]{\ESKDchngColumnIXwidth-2\tabcolsep-\arrayrulewidth}{%
-  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIIname}&
+  \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDchngColumnVIIIIname}&
 \parbox[c]{\ESKDchngColumnXwidth-2\tabcolsep-1.5\arrayrulewidth}{%
   \vspace{-\baselineskip}\centering\ESKDfontTabHead\ESKDcolumnXVIIIname}\\\hline
 \endhead
